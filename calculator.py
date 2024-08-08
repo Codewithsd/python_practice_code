@@ -1,5 +1,7 @@
+#loading the packages
 from tkinter import Tk,Entry,Button,StringVar
 
+#calculator Classs 
 class Calculator:
     def __init__(self,master):
         master.title("Calculator")
